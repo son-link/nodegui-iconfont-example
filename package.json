@@ -4,7 +4,8 @@
   "description": "A example of how to use an icon font in NodeGUI, such as Fontello, Font Awesome, etc.",
   "main": "src/index.js",
   "scripts": {
-    "test": "qode --debug src/index.js"
+    "test": "qode --debug src/index.js",
+    "start": "qode src/index.js"
   },
   "keywords": [
     "node",
